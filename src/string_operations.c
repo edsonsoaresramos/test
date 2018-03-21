@@ -9,7 +9,7 @@
    return (p - s);
 }
 
-car *my_strcat(char *t, char *s)
+car *my_strcat2(char *t, char *s)
 
 char *my_strcpy(char *t, char *s)
 {
