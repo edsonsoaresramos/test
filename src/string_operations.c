@@ -1,4 +1,5 @@
-include <stdio.h>
+#include <stdio.h>
+#include <wchar.h>
 -size_t my_strlen(const char *s)
 {
    char *p = s;
